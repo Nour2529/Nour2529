@@ -14,5 +14,5 @@ I'm a 22-year-old tech enthusiast and second-year student at North American Univ
 - **Frameworks:** Angular, Laravel
 - **Back-End:** .NET Core, Spring Boot, Node.js
 - **Mobile:** Flutter/Dart
-- **Databases:** SQL, MySQL
-- **Containerization:** Docker, Cloud
+- **Databases:** SQL/NoSQL(MongoDB)
+- **Containerization:** Docker
