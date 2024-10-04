@@ -1,6 +1,6 @@
 # Hi there 👋 I’m FEKI Nour, a Software Engineer
 
-I'm a 22-year-old tech enthusiast and second-year student at North American University, deeply excited about anything related to technology. Currently seeking a summer internship to enhance my skills in software engineering, I have a strong interest in problem-solving, especially in web and mobile development, and IoT projects. Lately, I've been diving into Cloud technologies and learning DevOps. Eager to collaborate, learn, and contribute to innovative projects.
+I'm a 22-year-old tech enthusiast and third-year student at North American University, deeply excited about anything related to technology. Currently seeking a summer internship to enhance my skills in software engineering, I have a strong interest in problem-solving, especially in web and mobile development, and IoT projects. Lately, I've been diving into Cloud technologies and learning DevOps. Eager to collaborate, learn, and contribute to innovative projects.
 
 🔭 I’m currently working on an Angular/Spring Boot project.
 
@@ -15,4 +15,4 @@ I'm a 22-year-old tech enthusiast and second-year student at North American Univ
 - **Back-End:** .NET Core, Spring Boot, Node.js
 - **Mobile:** Flutter/Dart
 - **Databases:** SQL/NoSQL(MongoDB)
-- **Containerization:** Docker
+- **Containerization:** Docker, Jenkins
